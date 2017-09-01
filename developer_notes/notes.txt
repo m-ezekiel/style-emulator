@@ -1,0 +1,9 @@
+-----------------------------
+| Linguistic Style Emulator |
+-----------------------------
+
+September 01, 2017
+
+Created the download script with specifications for downloading original content vs OC w/Retweets and/or replies.  This will be helpful for authorship attribution.
+
+Since I need a text file for tree parser I'll have to transform the tweet list into a string object with some kind of separator character sequence between each tweet.
